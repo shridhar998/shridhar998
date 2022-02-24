@@ -11,9 +11,9 @@
 ![CodeForces](https://img.shields.io/badge/CodeForces-000000?style=for-the-badge&logo=CodeForces)
 ### Technologies i use:
 ![ReactJS](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=React&logoColor=blue)
-![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=NodeJS&logoColor=green)
+![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=Node.js&logoColor=green)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=brown)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=green)
 [![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridhar998)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Web Developement, Competitive Programming and DSA
