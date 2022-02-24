@@ -3,6 +3,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shridhar.
 
 ### My interesets are Web Developement, Competitive Programming and DSA. Currently 3rd year undergraduate at IIT (BHU), Varanasi.
+[![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridhar998)](https://github.com/anuraghazra/github-readme-stats)
 ### You can find me on:
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -14,7 +15,8 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=Node.js&logoColor=green)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=brown)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=green)
-[![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridhar998)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 - 🔭 I’m currently working on Web Developement, Competitive Programming and DSA
 - 🌱 I’m currently learning NodeJS, ReactJS, ExpressJS
