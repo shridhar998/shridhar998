@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Shridhar's%20GitHub%20Profile%20&fontSize=45)
-# Hello, folks!👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shridhar.
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shridhar.
 
 ### My interesets are Web Developement, Competitive Programming and DSA. Currently 3rd year undergraduate at IIT (BHU), Varanasi.
 ### You can find me on
