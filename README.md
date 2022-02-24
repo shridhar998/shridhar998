@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**shridhar998/shridhar998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Shridhar's%20GitHub%20Profile%20&fontSize=45)
+# Hello, folks!👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shridhar.
 
-Here are some ideas to get you started:
+### My interesets are Web Developement, Competitive Programming and DSA. Currently 3rd year undergraduate at IIT (BHU), Varanasi.
+### You can find me on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)
+![CodeForces](https://img.shields.io/badge/CodeForces-000000?style=for-the-badge&logo=CodeForces)
+
+[![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridhar998)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on Web Developement, Competitive Programming and DSA
+- 🌱 I’m currently learning NodeJS, ReactJS, ExpressJS
+- ⚡ Fun fact: I love music
+
