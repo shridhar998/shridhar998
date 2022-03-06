@@ -21,4 +21,4 @@
 - 🔭 I’m currently working on Web Developement, Competitive Programming and DSA
 - 🌱 I’m currently learning NodeJS, ReactJS, ExpressJS
 - ⚡ Fun fact: I love music
-
+- 😄 Pronouns: (P.S:- Jordan Peterson fan here)I hate using pronouns. My gender doesn't define who i am, my work does, so just call me by my name that's it😅😅. 
