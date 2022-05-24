@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I'm%20Shridhar%20&fontSize=45)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shridhar.
 
-### My interesets are Web Developement, Competitive Programming and DSA. Currently 3rd year undergraduate at IIT (BHU), Varanasi.
+### My interests are Web Developement, Competitive Programming and DSA. Currently 3rd year undergraduate at IIT (BHU), Varanasi.
 [![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridhar998)](https://github.com/anuraghazra/github-readme-stats)
 ### You can find me on:
 
