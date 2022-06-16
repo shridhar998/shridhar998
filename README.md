@@ -25,7 +25,7 @@
 <a href="#" title = "Terminal" rel="nofollow"><img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"></a></p>
 <a href="https://www.w3schools.com/cpp/" title = "C++" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32"/> </a>
 <a href="https://firebase.google.com/" title = "Firebase" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a>
-<a href="https://reactnative.dev/" title = "React Native" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/react-native/react-native-icon.svg" alt="React Native" width="35" height="35"/> </a>
+<a href="https://reactnative.dev/" title = "React Native" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="35" height="35"/> </a>
 <a href="https://www.mongodb.com/" title = "MongoDB" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/> </a> 
 <a href="https://git-scm.com/" title = "Git" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
 <a href="https://heroku.com" title = "Heroku" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/> </a> 
