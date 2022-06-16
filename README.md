@@ -35,7 +35,7 @@
 
 
 
-- 🔭 I’m currently working on Web Developement, Competitive Programming and DSA
-- 🌱 I’m currently learning NodeJS, ReactJS, ExpressJS
+- 🔭 I’m currently working on Web Developement, App development, Competitive Programming and DSA
+- 🌱 I’m currently learning: Javascript, React Native, Firebase, ReactJS, CSS, NodeJS
 - ⚡ Fun fact: I love music
 - 😄 Pronouns: (P.S:- Jordan Peterson fan here) I don't prefer using pronouns 😅😅. 
