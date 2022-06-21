@@ -6,7 +6,7 @@
 [![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridhar998)](https://github.com/anuraghazra/github-readme-stats)
 ### You can find me on:
 
-[![github](https://img.shields.io/badge/GitHub-#ffffff?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/shridhar998)
+[![github](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/shridhar998)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/shridhar-sarraf-5481b41a4/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/shridhar588/)
 [![CodeForces](https://img.shields.io/badge/CodeForces-000000?style=for-the-badge&logo=CodeForces)](https://codeforces.com/profile/shridharsarraf)
