@@ -7,11 +7,11 @@
 ### You can find me on:
 
 [![github](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=black)](https://github.com/shridhar998)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/shridhar-sarraf-5481b41a4/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/shridhar588/)
-[![CodeForces](https://img.shields.io/badge/CodeForces-000000?style=for-the-badge&logo=CodeForces)](https://codeforces.com/profile/shridharsarraf)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-000000?style=for-the-badge&logo=GeeksForGeeks)](https://auth.geeksforgeeks.org/user/shridharsarrafche19/practice/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=CodeChef)](https://www.codechef.com/users/kauwabiryani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/shridhar-sarraf-5481b41a4/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ffffff?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/shridhar588/)
+[![CodeForces](https://img.shields.io/badge/CodeForces-ffffff?style=for-the-badge&logo=CodeForces)](https://codeforces.com/profile/shridharsarraf)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-ffffff?style=for-the-badge&logo=GeeksForGeeks)](https://auth.geeksforgeeks.org/user/shridharsarrafche19/practice/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-ffffff?style=for-the-badge&logo=CodeChef)](https://www.codechef.com/users/kauwabiryani)
 
 <h3><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>🔧 Technologies & Tools I'm familiar with:</h3>
 
