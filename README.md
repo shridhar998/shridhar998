@@ -2,7 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I'm%20Shridhar%20&fontSize=45)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-### My interests are Mobile Development, Web Developement, Competitive Programming and DSA. Currently 4th year undergraduate at IIT (BHU), Varanasi.
+### Hi, I'm Shridhar. 
+Currently I'm a final year undergraduate at IIT BHU. I'm highly interested in Problem Solving and Data Structures and Algorithms in C++. I love doing Leetcode problems and contests.
+I'm also interested in cross platform front end development. Currently, I'm doing Mobile app development using React Native, Web development using React JS. Besides, I'm also trying to learn Electron JS for desktop development.
+I've worked with startups on various front end projects. Looking for new opportunities to gain experience and to fulfill my quest of learning new stuff.
 [![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridhar998)](https://github.com/anuraghazra/github-readme-stats)
 ### You can find me on:
 
