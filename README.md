@@ -6,6 +6,7 @@
 Currently I'm a final year undergraduate at IIT BHU. I'm highly interested in Problem Solving and Data Structures and Algorithms in C++. I love doing Leetcode problems and contests.
 I'm also interested in cross platform front end development. Currently, I'm doing Mobile app development using React Native, Web development using React JS. Besides, I'm also trying to learn Electron JS for desktop development.
 I've worked with startups on various front end projects. Looking for new opportunities to gain experience and to fulfill my quest of learning new stuff.
+[Resume-Link](https://drive.google.com/file/d/1uGsZgKE2wLDU1HWNBMLXzdBN4LE_svmj/view?usp=drivesdk)
 
 [![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridhar998)](https://github.com/anuraghazra/github-readme-stats)
 ### You can find me on:
