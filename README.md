@@ -3,7 +3,12 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 ### Hi, I'm Shridhar. 
-📱 Mobile App Developer | React Native Specialist | Node.js Enthusiast 🚀 Transforming ideas into user-centric mobile experiences 🌐 Proficient in React Native and Express.js to build robust mobile applications. Problem Solver 🎯 Committed to delivering high-quality software solutions. Passionate about continuous learning 📈 and honing my craft. Actively seeking 🔍challenging roles in software development.
+📱 Mobile App Developer | React Native Specialist | Node.js Enthusiast 
+🚀 Transforming ideas into user-centric mobile experiences 
+🌐 Proficient in React Native and Express.js to build robust mobile applications. 
+🎯 Committed to delivering high-quality software solutions. 
+📈 Passionate about continuous learning and honing my craft. 
+🔍 Actively seeking challenging roles in software development.
 
 [![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridhar998)](https://github.com/anuraghazra/github-readme-stats)
 ### You can find me on:
