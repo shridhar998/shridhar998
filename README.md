@@ -3,10 +3,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 ### Hi, I'm Shridhar. 
-Currently I'm a final year undergraduate at IIT BHU. I'm highly interested in Problem Solving and Data Structures and Algorithms in C++. I love doing Leetcode problems and contests.
-I'm also interested in cross platform front end development. Currently, I'm doing Mobile app development using React Native, Web development using React JS. Besides, I'm also trying to learn Electron JS for desktop development.
-I've worked with startups on various front end projects. Looking for new opportunities to gain experience and to fulfill my quest of learning new stuff.
-[Resume-Link](https://drive.google.com/file/d/1MsdlrsNHGweW_Tohoziwyk1JpIxPweVl/view?usp=drivesdk)
+📱 Mobile App Developer | React Native Specialist | Node.js Enthusiast 🚀 Transforming ideas into user-centric mobile experiences 🌐 Proficient in React Native and Express.js to build robust mobile applications. Problem Solver 🎯 Committed to delivering high-quality software solutions. Passionate about continuous learning 📈 and honing my craft. Actively seeking 🔍challenging roles in software development.
 
 [![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridhar998)](https://github.com/anuraghazra/github-readme-stats)
 ### You can find me on:
