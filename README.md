@@ -24,7 +24,6 @@
 
 <p><a href="https://vscode.dev/" title = "Visual Studio Code" rel="nofollow"><img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"></a>
 
- ![download (1)](https://github.com/shridhar998/shridhar998/assets/83115648/d35354ed-2bea-42b2-a49d-12e6ce82da5f)
 
 <a href="https://reactnative.dev/" title = "React Native" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="35" height="35"/></a>
   
