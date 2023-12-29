@@ -24,18 +24,11 @@
 
 
 <a href="https://reactnative.dev/" title = "React Native" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="35" height="35"/></a>
-<a href="https://expressjs.com/" title = "Express JS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="185" height="65"/></a>
-  
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title = "HTML5" rel="nofollow"><img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title = "Css3" rel="nofollow"><img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title = "Javascript" rel="nofollow"><img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a>
 <a href="https://reactjs.org/" title = "React" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org" title = "Node.js" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="#" title = "Git" rel="nofollow"><img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
 <a href="#" title = "Github" rel="nofollow"><img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;"></a>
-<a href="#" title = "Terminal" rel="nofollow"><img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"></a></p>
 <a href="https://www.w3schools.com/cpp/" title = "C++" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32"/> </a>
-<a href="https://firebase.google.com/" title = "Firebase" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a>
 <a href="https://www.mongodb.com/" title = "MongoDB" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/> </a> 
 <a href="https://git-scm.com/" title = "Git" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
 <br>
